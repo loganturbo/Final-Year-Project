@@ -1,0 +1,13 @@
+.temp-percentage {
+  font-size: 15px;
+  text-anchor: middle;
+  fill: #fff;
+  font-weight: bold;
+  position: relative;
+  bottom: 110px;
+}
+.temperature-progress-bar {
+  position: relative;
+  right: 100px;
+  bottom: 70px;
+}

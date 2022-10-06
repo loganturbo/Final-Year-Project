@@ -1,0 +1,13 @@
+.humidity-progress-bar {
+  position: relative;
+  left: 380px;
+  bottom: 70px;
+}
+.hum-percentage {
+  font-size: 15px;
+  text-anchor: middle;
+  fill: #fff;
+  font-weight: bold;
+  position: relative;
+  bottom: 110px;
+}

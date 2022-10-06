@@ -13,8 +13,8 @@ function App() {
       <div className="container">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/temperature" element={<Temperature />} />
-          <Route path="/humidity" element={<Humidity />} />
+          <Route path="/temperature-graph" element={<Temperature />} />
+          <Route path="/humidity-graph" element={<Humidity />} />
           <Route path="/logout" element={<Logout />} />
         </Routes>
       </div>

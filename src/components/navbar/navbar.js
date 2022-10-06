@@ -30,7 +30,7 @@ function NavBar() {
             <i>
               <FaTemperatureHigh />
             </i>
-            <Link to="/temperature">
+            <Link to="/temperature-graph">
               <span>Temperature</span>
             </Link>
           </li>
@@ -38,7 +38,7 @@ function NavBar() {
             <i className="humidity">
               <WiHumidity />
             </i>
-            <Link to="/humidity">
+            <Link to="/humidity-graph">
               <span>Humidity</span>
             </Link>
           </li>
