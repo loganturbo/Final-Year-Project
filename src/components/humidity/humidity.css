@@ -1,0 +1,24 @@
+.overview {
+  width: 840px;
+  height: 500px;
+  background: #fff;
+  border-radius: 15px;
+  position: fixed;
+  bottom: 75px;
+  left: 350px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.24);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-right: 1px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.temp-chart {
+  width: 830px;
+  height: 500px;
+  position: relative;
+  top: 30px;
+}

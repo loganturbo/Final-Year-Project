@@ -40,7 +40,7 @@ function Temperature() {
         data: [38, 37, 39.5, 36, 37.5, 36, 38.5, 39, 36.5, 40, 40.5],
         borderColor: "#000000",
         tension: 0.3,
-        pointBorderColor: "transparent",
+        borderColor: "red",
       },
     ],
   };
