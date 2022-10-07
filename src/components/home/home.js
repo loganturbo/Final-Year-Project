@@ -8,9 +8,11 @@ import ProgressBar2 from "../Progress-bar2/progress-bar2";
 
 
 function Home() {
+  // This shows the progress of the humidity
   const Progress1 = {
     humidityProgress: 43
   }
+  // This shows the progress of the temperature
   const Progress2 = {
     temperatureProgress: 31
   }
